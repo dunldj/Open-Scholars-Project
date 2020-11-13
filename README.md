@@ -11,3 +11,6 @@ Add:
 * Social Media Info and Contact Info 
 * OSP Taskforce Bios and Information 
 * Code of Conduct
+
+--------------
+embedded links for each section of README file.
